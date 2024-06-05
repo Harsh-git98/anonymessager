@@ -1,0 +1,17 @@
+{
+  "name": "anoinymousmessage",
+  "version": "1.0.0",
+  "description": "send me anonymous message",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13"
+  }
+}
