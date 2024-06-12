@@ -11,32 +11,23 @@ Anonymessager is a simple single-page application designed for sending anonymous
 
 ## How to Use
 
-1. **Clone the Repository**: Clone the repository to your local machine.
+1. **CHeck this link**:
    ```bash
-   git clone https://github.com/yourusername/anonymessager.git
-2.Install Dependencies: Navigate into the project directory and install the required dependencies.
+   https://anonymessager.onrender.com/
+2.**Contributing**
+   Contributions are welcome! If you'd like to contribute to Anonymessager, please follow these steps:
 
-   ```bash
-   cd anonymessager
-   npm install
+   Fork the repository.
+   Create your feature branch (git checkout -b feature/AmazingFeature).
+   Commit your changes (git commit -m 'Add some AmazingFeature').
+   Push to the branch (git push origin feature/AmazingFeature).
+   Open a pull request.
 
-3.Start the Server: Run the server using the following command.
-
-   ```bash
-   npm start
-Access the Application: Open your web browser and go to http://localhost:3000 to access the application.
-
-Contributing
-Contributions are welcome! If you'd like to contribute to Anonymessager, please follow these steps:
-
-Fork the repository.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-
-License
+3. **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+4. **Author**
 Anonymessager is developed by Harsh Ranjan. For any inquiries or support, please contact [shriharshranjangupta@gmail.com].
+
+
+
